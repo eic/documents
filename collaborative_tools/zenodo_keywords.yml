@@ -1,0 +1,444 @@
+# This vocabulary is based on the document created by T.Ullrich in the summer of 2020.
+#
+# It differs from Thomas' list in the following - due to a very large overlap of the document
+# types proposed by Thomas, with the natively supported types in Zenodo we shall rely on the
+# native types for the time being (e.g. "presentation", "working paper", "publication" etc)
+#
+# The rest of the content is presented below and grouped into specific categories:
+
+
+# Secondary
+
+- name: TDR
+  title: Technical Design Report
+  category: secondary
+  
+- name: CDR
+  title: Conceptual Design Report
+  category: secondary
+  
+- name: LOI
+  title: Letter of Intent
+  category: secondary
+  
+- name: EOI
+  title: Expression of Interest
+  category: secondary
+
+- name: MOU
+  title: Memorandum of Understanding
+  category: secondary
+
+- name: White Paper
+  title: White Paper
+  category: secondary
+
+- name: Review
+  title: Review
+  category: secondary
+
+- name: LDRD
+  title: LDRD
+  category: secondary
+
+- name: Drawing
+  title: Drawing
+  category: secondary
+
+- name: Plot
+  title: Plot
+  category: secondary
+
+- name: Table
+  title: 
+  category: secondary
+
+- name: Technical
+  title: Technical
+  category: secondary
+
+- name: Physics
+  title: Physics
+  category: secondary
+
+- name: Detector
+  title: Detector
+  category: secondary
+
+- name: 'R&D'
+  title: Research and Development
+  category: secondary
+
+- name: Requirements
+  title: Requirements
+  category: secondary
+
+- name: Software
+  title: Software
+  category: secondary
+
+- name: Computing
+  title: Computing
+  category: secondary
+
+- name: Operation
+  title: Operation
+  category: secondary
+
+- name: Master
+  title: Master (type of thesis)
+  category: secondary
+
+- name: PhD
+  title: PhD (type of thesis)
+  category: secondary
+
+- name: Administration
+  title: Administration
+  category: secondary
+
+- name: Planning
+  title: Planning
+  category: secondary
+
+- name: Strategy
+  title: Strategy
+  category: secondary
+
+- name: Cost
+  title: Cost
+  category: secondary
+
+# Processes and general classes
+- name: Inclusive
+  title: Inclusive
+  category: processes
+
+- name: Exclusive
+  title: Exclusive
+  category: processes
+
+- name: Diffractive
+  title: Diffractive
+  category: processes
+
+- name: SIDIS
+  title: SIDIS
+  category: processes
+
+- name: ep
+  title: ep
+  category: processes
+
+- name: eA
+  title: eA
+  category: processes
+
+- name: pp
+  title: pp
+  category: processes
+
+- name: pA
+  title: pA
+  category: processes
+
+- name: AA
+  title: AA
+  category: processes
+
+# Physics
+# Allow for a finer granular search. Optional. No prefix “di”, “anti” etc
+- name: Jets
+  title: Jets
+  category: physics
+  
+- name: Decays
+  title: Decays
+  category: physics
+  
+- name: Hadrons
+  title: Hadrons
+  category: physics
+  
+- name: Mesons
+  title: Mesons
+  category: physics
+  
+- name: Baryons
+  title: Baryons
+  category: physics
+  
+- name: Muons
+  title: Muons
+  category: physics
+  
+- name: Electrons
+  title: Electrons
+  category: physics
+  
+- name: Correlations
+  title: Correlations
+  category: physics
+  
+- name: Photons
+  title: Photons
+  category: physics
+  
+- name: Charm
+  title: Charm
+  category: physics
+  
+- name: Bottom
+  title: Bottom
+  category: physics
+  
+- name: Strangeness
+  title: Strangeness
+  category: physics
+  
+- name: Vector Mesons
+  title: Vector Mesons
+  category: physics
+  
+- name: Helicity
+  title: Helicity
+  category: physics
+  
+- name: TMD
+  title: TMD
+  category: physics
+  
+- name: GPD
+  title: GPD
+  category: physics
+  
+- name: PDF
+  title: PDF
+  category: physics
+  
+- name: Fragmentation Function
+  title: Fragmentation Function
+  category: physics
+  
+- name: DVCS
+  title: DVCS
+  category: physics
+  
+- name: Low-x
+  title: Low-x
+  category: physics
+  
+- name: Wigner
+  title: Wigner
+  category: physics
+  
+- name: CNM
+  title: CNM
+  category: physics
+  
+- name: SRC
+  title: SRC
+  category: physics
+  
+- name: Saturation
+  title: Saturation
+  category: physics
+  
+- name: Imaging
+  title: Imaging
+  category: physics
+  
+- name: Hadronization
+  title: Hadronization
+  category: physics
+  
+- name: Fragmentation
+  title: Fragmentation
+  category: physics
+  
+- name: Entanglement
+  title: Entanglement
+  category: physics
+
+# Detector
+- name: Tracker
+  title: Tracker
+  category: detector
+
+- name: Calorimeter
+  title: Calorimeter
+  category: detector
+
+- name: Vertex
+  title: Vertex
+  category: detector
+
+- name: PID
+  title: PID
+  category: detector
+
+- name: RICH
+  title: RICH
+  category: detector
+
+- name: GEM
+  title: GEM
+  category: detector
+
+- name: MMG
+  title: MMG
+  category: detector
+
+- name: MPG
+  title: MPG
+  category: detector
+
+- name: TPC
+  title: Time Projection Chamber
+  category: detector
+
+- name: ZDC
+  title: Zero Degree Calorimeter
+  category: detector
+
+- name: Roman Pot
+  title: Roman Pot
+  category: detector
+
+- name: Low Q2 Tagger
+  title: Low Q2 Tagger
+  category: detector
+
+- name: Luminosity
+  title: Luminosity
+  category: detector
+
+- name: Polarimetry
+  title: Polarimetry
+  category: detector
+
+- name: IR
+  title: Interaction Region
+  category: detector
+
+- name: Beampipe
+  title: Beampipe
+  category: detector
+
+- name: Magnet
+  title: Magnet
+  category: detector
+
+- name: Background
+  title: Background
+  category: detector
+
+- name: Integration
+  title: Integration
+  category: detector
+
+# Software and Computing
+# Names of event generators are all capital
+- name: Event Generator
+  title: Event Generator
+  category: computing
+
+- name: GEANT
+  title: GEANT
+  category: computing
+
+- name: Fast Simulations
+  title: Fast Simulations
+  category: computing
+
+- name: Framework
+  title: Framework
+  category: computing
+
+- name: Analysis
+  title: Analysis
+  category: computing
+
+- name: Reconstruction
+  title: Reconstruction
+  category: computing
+
+- name: Infrastructure
+  title: Infrastructure
+  category: computing
+
+- name: Networking
+  title: Networking
+  category: computing
+
+- name: AI/ML
+  title: Artificial Intelligence and Machine learning
+  category: computing
+
+- name: Collaborative Tools
+  title: Collaborative Tools
+  category: computing
+
+- name: PYTHIA
+  title: PYTHIA
+  category: computing
+
+- name: HERWIG
+  title: HERWIG
+  category: computing
+
+- name: SARTRE
+  title: SARTRE
+  category: computing
+
+- name: BEAGLE
+  title: BEAGLE
+  category: computing
+
+# Conferences
+- name: QM2019
+  title: Quark Matter 2019
+  category: conference
+
+# Experiments and facilities
+# By default in all caps
+- name: ATLAS
+  title: ATLAS
+  category: experiment
+
+- name: STAR
+  title: STAR
+  category: experiment
+
+- name: PHENIX
+  title: PHENIX
+  category: experiment
+
+- name: RHIC
+  title: RHIC
+  category: experiment
+
+# Labs and Universities
+# By default in all caps
+# Univiersities may be a special case
+- name: CERN
+  title: CERN
+  category: organization
+
+- name: BNL
+  title: BNL
+  category: organization
+
+- name: JLAB
+  title: JLAB
+  category: organization
+
+- name: RHIC
+  title: RHIC
+  category: organization
+
+- name: Columbia
+  title: Columbia University in the City of New York
+  category: organization
+
+# 
