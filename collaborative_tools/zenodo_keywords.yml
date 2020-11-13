@@ -402,6 +402,10 @@
 
 # Experiments and facilities
 # By default in all caps
+- name: EIC
+  title: EIC
+  category: experiment
+
 - name: ATLAS
   title: ATLAS
   category: experiment
