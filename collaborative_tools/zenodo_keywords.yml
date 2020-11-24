@@ -7,442 +7,442 @@
 # The rest of the content is presented below and grouped into specific categories:
 
 
-# Secondary
+# Type
 
 - name: TDR
-  title: Technical Design Report
-  category: secondary
+  description: Technical Design Report
+  category: type
   
 - name: CDR
-  title: Conceptual Design Report
-  category: secondary
+  description: Conceptual Design Report
+  category: type
   
 - name: LOI
-  title: Letter of Intent
-  category: secondary
+  description: Letter of Intent
+  category: type
   
 - name: EOI
-  title: Expression of Interest
-  category: secondary
+  description: Expression of Interest
+  category: type
 
 - name: MOU
-  title: Memorandum of Understanding
-  category: secondary
+  description: Memorandum of Understanding
+  category: type
 
 - name: White Paper
-  title: White Paper
-  category: secondary
+  description: White Paper
+  category: type
 
 - name: Review
-  title: Review
-  category: secondary
+  description: Review
+  category: type
 
 - name: LDRD
-  title: LDRD
-  category: secondary
+  description: LDRD
+  category: type
 
 - name: Drawing
-  title: Drawing
-  category: secondary
+  description: Drawing
+  category: type
 
 - name: Plot
-  title: Plot
-  category: secondary
+  description: Plot
+  category: type
 
 - name: Table
-  title: 
-  category: secondary
+  description: 
+  category: type
 
 - name: Technical
-  title: Technical
-  category: secondary
+  description: Technical
+  category: type
 
 - name: Physics
-  title: Physics
-  category: secondary
+  description: Physics
+  category: type
 
 - name: Detector
-  title: Detector
-  category: secondary
+  description: Detector
+  category: type
 
 - name: 'R&D'
-  title: Research and Development
-  category: secondary
+  description: Research and Development
+  category: type
 
 - name: Requirements
-  title: Requirements
-  category: secondary
+  description: Requirements
+  category: type
 
 - name: Software
-  title: Software
-  category: secondary
+  description: Software
+  category: type
 
 - name: Computing
-  title: Computing
-  category: secondary
+  description: Computing
+  category: type
 
 - name: Operation
-  title: Operation
-  category: secondary
+  description: Operation
+  category: type
 
 - name: Master
-  title: Master (type of thesis)
-  category: secondary
+  description: Master (type of thesis)
+  category: type
 
 - name: PhD
-  title: PhD (type of thesis)
-  category: secondary
+  description: PhD (type of thesis)
+  category: type
 
 - name: Administration
-  title: Administration
-  category: secondary
+  description: Administration
+  category: type
 
 - name: Planning
-  title: Planning
-  category: secondary
+  description: Planning
+  category: type
 
 - name: Strategy
-  title: Strategy
-  category: secondary
+  description: Strategy
+  category: type
 
 - name: Cost
-  title: Cost
-  category: secondary
+  description: Cost
+  category: type
 
 # Processes and general classes
 - name: Inclusive
-  title: Inclusive
+  description: Inclusive
   category: processes
 
 - name: Exclusive
-  title: Exclusive
+  description: Exclusive
   category: processes
 
 - name: Diffractive
-  title: Diffractive
+  description: Diffractive
   category: processes
 
 - name: SIDIS
-  title: SIDIS
+  description: SIDIS
   category: processes
 
 - name: ep
-  title: ep
+  description: ep
   category: processes
 
 - name: eA
-  title: eA
+  description: eA
   category: processes
 
 - name: pp
-  title: pp
+  description: pp
   category: processes
 
 - name: pA
-  title: pA
+  description: pA
   category: processes
 
 - name: AA
-  title: AA
+  description: AA
   category: processes
 
 # Physics
 # Allow for a finer granular search. Optional. No prefix “di”, “anti” etc
 - name: Jets
-  title: Jets
+  description: Jets
   category: physics
   
 - name: Decays
-  title: Decays
+  description: Decays
   category: physics
   
 - name: Hadrons
-  title: Hadrons
+  description: Hadrons
   category: physics
   
 - name: Mesons
-  title: Mesons
+  description: Mesons
   category: physics
   
 - name: Baryons
-  title: Baryons
+  description: Baryons
   category: physics
   
 - name: Muons
-  title: Muons
+  description: Muons
   category: physics
   
 - name: Electrons
-  title: Electrons
+  description: Electrons
   category: physics
   
 - name: Correlations
-  title: Correlations
+  description: Correlations
   category: physics
   
 - name: Photons
-  title: Photons
+  description: Photons
   category: physics
   
 - name: Charm
-  title: Charm
+  description: Charm
   category: physics
   
 - name: Bottom
-  title: Bottom
+  description: Bottom
   category: physics
   
 - name: Strangeness
-  title: Strangeness
+  description: Strangeness
   category: physics
   
 - name: Vector Mesons
-  title: Vector Mesons
+  description: Vector Mesons
   category: physics
   
 - name: Helicity
-  title: Helicity
+  description: Helicity
   category: physics
   
 - name: TMD
-  title: TMD
+  description: TMD
   category: physics
   
 - name: GPD
-  title: GPD
+  description: GPD
   category: physics
   
 - name: PDF
-  title: PDF
+  description: PDF
   category: physics
   
 - name: Fragmentation Function
-  title: Fragmentation Function
+  description: Fragmentation Function
   category: physics
   
 - name: DVCS
-  title: DVCS
+  description: DVCS
   category: physics
   
 - name: Low-x
-  title: Low-x
+  description: Low-x
   category: physics
   
 - name: Wigner
-  title: Wigner
+  description: Wigner
   category: physics
   
 - name: CNM
-  title: CNM
+  description: CNM
   category: physics
   
 - name: SRC
-  title: SRC
+  description: SRC
   category: physics
   
 - name: Saturation
-  title: Saturation
+  description: Saturation
   category: physics
   
 - name: Imaging
-  title: Imaging
+  description: Imaging
   category: physics
   
 - name: Hadronization
-  title: Hadronization
+  description: Hadronization
   category: physics
   
 - name: Fragmentation
-  title: Fragmentation
+  description: Fragmentation
   category: physics
   
 - name: Entanglement
-  title: Entanglement
+  description: Entanglement
   category: physics
 
 # Detector
 - name: Tracker
-  title: Tracker
+  description: Tracker
   category: detector
 
 - name: Calorimeter
-  title: Calorimeter
+  description: Calorimeter
   category: detector
 
 - name: Vertex
-  title: Vertex
+  description: Vertex
   category: detector
 
 - name: PID
-  title: PID
+  description: PID
   category: detector
 
 - name: RICH
-  title: RICH
+  description: RICH
   category: detector
 
 - name: GEM
-  title: GEM
+  description: GEM
   category: detector
 
 - name: MMG
-  title: MMG
+  description: MMG
   category: detector
 
 - name: MPG
-  title: MPG
+  description: MPG
   category: detector
 
 - name: TPC
-  title: Time Projection Chamber
+  description: Time Projection Chamber
   category: detector
 
 - name: ZDC
-  title: Zero Degree Calorimeter
+  description: Zero Degree Calorimeter
   category: detector
 
 - name: Roman Pot
-  title: Roman Pot
+  description: Roman Pot
   category: detector
 
 - name: Low Q2 Tagger
-  title: Low Q2 Tagger
+  description: Low Q2 Tagger
   category: detector
 
 - name: Luminosity
-  title: Luminosity
+  description: Luminosity
   category: detector
 
 - name: Polarimetry
-  title: Polarimetry
+  description: Polarimetry
   category: detector
 
 - name: IR
-  title: Interaction Region
+  description: Interaction Region
   category: detector
 
 - name: Beampipe
-  title: Beampipe
+  description: Beampipe
   category: detector
 
 - name: Magnet
-  title: Magnet
+  description: Magnet
   category: detector
 
 - name: Background
-  title: Background
+  description: Background
   category: detector
 
 - name: Integration
-  title: Integration
+  description: Integration
   category: detector
 
 # Software and Computing
 # Names of event generators are all capital
 - name: Event Generator
-  title: Event Generator
+  description: Event Generator
   category: computing
 
 - name: GEANT
-  title: GEANT
+  description: GEANT
   category: computing
 
 - name: Fast Simulations
-  title: Fast Simulations
+  description: Fast Simulations
   category: computing
 
 - name: Framework
-  title: Framework
+  description: Framework
   category: computing
 
 - name: Analysis
-  title: Analysis
+  description: Analysis
   category: computing
 
 - name: Reconstruction
-  title: Reconstruction
+  description: Reconstruction
   category: computing
 
 - name: Infrastructure
-  title: Infrastructure
+  description: Infrastructure
   category: computing
 
 - name: Networking
-  title: Networking
+  description: Networking
   category: computing
 
 - name: AI/ML
-  title: Artificial Intelligence and Machine learning
+  description: Artificial Intelligence and Machine learning
   category: computing
 
 - name: Collaborative Tools
-  title: Collaborative Tools
+  description: Collaborative Tools
   category: computing
 
 - name: PYTHIA
-  title: PYTHIA
+  description: PYTHIA
   category: computing
 
 - name: HERWIG
-  title: HERWIG
+  description: HERWIG
   category: computing
 
 - name: SARTRE
-  title: SARTRE
+  description: SARTRE
   category: computing
 
 - name: BEAGLE
-  title: BEAGLE
+  description: BEAGLE
   category: computing
 
 # Conferences
 - name: QM2019
-  title: Quark Matter 2019
+  description: Quark Matter 2019
   category: conference
 
 # Experiments and facilities
 # By default in all caps
 - name: EIC
-  title: EIC
+  description: EIC
   category: experiment
 
 - name: ATLAS
-  title: ATLAS
+  description: ATLAS
   category: experiment
 
 - name: STAR
-  title: STAR
+  description: STAR
   category: experiment
 
 - name: PHENIX
-  title: PHENIX
+  description: PHENIX
   category: experiment
 
 - name: RHIC
-  title: RHIC
+  description: RHIC
   category: experiment
 
 # Labs and Universities
 # By default in all caps
 # Univiersities may be a special case
 - name: CERN
-  title: CERN
+  description: CERN
   category: organization
 
 - name: BNL
-  title: BNL
+  description: BNL
   category: organization
 
 - name: JLAB
-  title: JLAB
+  description: JLAB
   category: organization
 
 - name: RHIC
-  title: RHIC
+  description: RHIC
   category: organization
 
 - name: Columbia
-  title: Columbia University in the City of New York
+  description: Columbia University in the City of New York
   category: organization
 
 # 
